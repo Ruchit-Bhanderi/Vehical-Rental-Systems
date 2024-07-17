@@ -1,0 +1,14 @@
+.btutton {
+    background-color: green;
+    margin-right: 20px;
+    margin-top: 3%;
+    height: 10%;
+    width: 17%;
+    color: white;
+  }
+  .btutton:hover {
+    box-shadow: 5px 5px 10px 2px rgb(182, 180, 180) !important;
+    transform: scale(1.1);
+    background-color: green;
+    color: white;
+  }

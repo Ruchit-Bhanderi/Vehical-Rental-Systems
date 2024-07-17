@@ -1,0 +1,45 @@
+.bookh2 {
+    margin-top: 1px;
+    text-align: center;
+    color: white;
+  }
+  
+  .bg {
+    background-color: black;
+    margin-top: -20px;
+  }
+  .cardbook {
+    margin-left: 30%;
+    margin-top: 5%;
+    height: 30rem;
+    width: 24rem;
+    color: black;
+  }
+  
+  .cartitle {
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+   
+  }
+  .cardbook:hover {
+    transform: scale(1.03);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+    border-color: blue;
+  }
+  .bbutton {
+    background-color: white;
+    margin-right: 20px;
+    margin-top: 5%;
+    height: 10%;
+    width: 17%;
+  }
+  .bbutton:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+    border-color: blue;
+  }
+  

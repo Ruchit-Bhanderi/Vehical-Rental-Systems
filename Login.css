@@ -1,0 +1,116 @@
+.loginform {
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+  /* height: 650px; */
+  margin-top: -20px;
+  /* padding-bottom: 5rem; */
+  /* background-color: #faf9f6; */
+}
+.form-label {
+  color: black;
+  margin-top: 10px;
+}
+
+.lform_control {
+  /* background-color: red; */
+  border-radius: 10px;
+  margin-top: 20px;
+  width: 20rem;
+  margin-left: 9rem !important;
+
+}
+.lform_controlls {
+
+  border-radius: 10px;
+  margin-top: 1px !important;
+  width: 20rem;
+  margin-left: 9rem !important;
+}
+.logoo {
+  color: #144170e0 !important;
+
+  display: flex;
+  margin-bottom: -12px;
+  margin-left: 15rem !important;
+}
+.loginbutton {
+  width: 7em;
+  margin-top: 10px;
+  background-color: rgba(11, 50, 100, 0.932);
+  color: white;
+  height: 40px;
+  width: 20rem;
+  
+
+}
+.loginbutton:hover {
+  transform: scale(1.1);
+  background-color: rgba(6, 71, 156, 0.966);
+  color: white;
+
+}
+.loginbuttonss {
+  width: 7rem !important;
+  margin-top: 10px;
+  background-color: rgba(11, 50, 100, 0.932);
+  color: white;
+  height: 40px;
+  margin-left: 16rem !important;
+  width: 5em;
+  width: 5em;
+
+}
+.loginbuttonss:hover {
+  transform: scale(1.1);
+  background-color: rgba(6, 71, 156, 0.966);
+  color: white;
+}
+.loginlogo {
+  color: rgba(11, 50, 100, 0.932);
+  margin-top: 30px;
+  margin-left: 60rem;
+  font-size: 40px;
+}
+.loginspan {
+  margin-left: 9rem;
+}
+.loginspann {
+  margin-left: 9rem;
+  margin-top: -23rem !important;
+}
+.loginrow {
+  background-color: #e5f1fa !important;
+  margin-top: 5rem !important;
+  height: 37rem;
+  margin-bottom: -4rem !important;
+  border-radius: 20px;
+}
+.loginp {
+  width: 10rem !important;
+  padding-top: 1rem;
+  color:  rgba(11, 50, 100, 0.932);
+  cursor: pointer;
+  margin-left: 16rem !important;
+}
+.lodedp {
+  width: 22rem !important;
+  margin-left: 10rem !important;
+  color: rgba(53, 53, 53, 0.918) !important;
+}
+.loform {
+  display: flex;
+  align-items: center !important;
+  /* background-color: #cde4f5 !important; */
+  background-color: #e5f1fa !important;
+  border-radius: 20px;
+}
+
+.logedimg {
+  height: 100%;
+  width: 100%;
+  background-color: #e5f1fa !important;
+}
+.nnlogin{
+  background-color: red !important;
+  color: rgba(53, 53, 53, 0.918) !important;
+}

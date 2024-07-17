@@ -1,0 +1,325 @@
+.im1 {
+  background-attachment: fixed;
+  height: 44rem;
+}
+.bimg {
+  height: 100%;
+  width: 100%;
+}
+.xyz {
+  display: none;
+}
+.led {
+  padding: 2rem;
+}
+.tcard {
+  padding: 0;
+  margin-top: -3px;
+  margin-bottom: -3px;
+  color: black;
+  font-weight: 900;
+  font-size: 30px;
+}
+.caption {
+  margin: 2% 50%;
+}
+.crd {
+  margin: 8px 20px 10px 3px;
+  background-color: white;
+  padding: 10px 10px 40px;
+  opacity: 0.7;
+  width: 22rem;
+  height: 23rem;
+}
+.cbutn {
+  background-color: #1d4979;
+}
+.rlbutn {
+  height: 40px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  padding: 40px 5px;
+}
+.btt {
+  background-color: #0b396b85;
+  padding: 2rem !important;
+}
+.hp {
+  margin-top: 1rem !important;
+  padding: 17px !important;
+  text-align: center !important;
+}
+.hp:hover {
+  border-radius: 20px !important;
+  box-shadow: 5px 5px 10px 2px grey;
+  text-align: center !important;
+  background-color: #316dac9f;
+  transform: scale(1.07);
+}
+.home {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.hero-text {
+  border-radius: 20px;
+  height: 335px;
+  width: 33rem;
+  margin-top: -22rem !important;
+  position: relative;
+  transform: translate(-50%, -50%);
+  padding: 50px;
+  font-weight: 999;
+  text-align: center;
+  left: 50%;
+  box-shadow: 5px 5px 10px 2px grey;
+}
+.ar {
+  font-size: 3rem;
+  color: rgba(232, 246, 248, 0.945);
+}
+.regbuttonns {
+  color: white !important;
+  margin-right: 20px;
+  margin-top: 20px;
+  width: 100px;
+  height: 40px;
+  text-decoration: none !important;
+  border: 1px solid #1d4979;
+}
+.regbuttonns:hover {
+  background-color: #1d4979 !important;
+  border: 1px solid #1d4979;
+  color: white;
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+    0.3s box-shadow,
+    0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+  transform: scale(1.1);
+}
+.homeicons {
+  font-size: 10rem !important;
+  color: #1d4979;
+}
+.homimg {
+  margin-top: 2rem;
+  height: 17rem;
+  width: 16rem !important;
+  margin-right: 20px !important;
+  border-radius: 13px;
+  cursor: pointer;
+}
+.homimg:hover {
+  transform: scale(1.05);
+}
+.vehiclstype {
+  padding: 4rem;
+  margin-left: 4rem;
+}
+.maincontainner {
+  background-color: rgba(215, 226, 226, 0.5);
+}
+.vehicletitle {
+  color: #1d4979;
+  margin-top: 3rem;
+  font-size: 2rem;
+  text-align: center;
+}
+.unavbar {
+  margin-top: -20px;
+}
+.curoimg {
+  position: relative;
+}
+.red {
+  height: 12rem;
+  background-color: #1d4979;
+}
+.branditem {
+  padding-bottom: 3rem !important;
+  margin-top: 4rem;
+}
+.homevehicle {
+  margin-top: 4rem !important;
+  padding: 2rem !important;
+  background-color: rgb(243, 239, 239);
+}
+.manimg {
+  height: 100%;
+  width: 100%;
+}
+.home-content {
+  padding-top: 4rem;
+  text-align: center !important;
+  font-size: 2rem;
+}
+.homes-content {
+  text-align: center !important;
+}
+.home-button {
+  color: white;
+  margin-left: 60px;
+  margin-top: 80px;
+  width: 150px;
+  height: 40px;
+  background-color: #1d4979;
+  text-decoration: none !important;
+  border: 1px solid #1d4979;
+}
+.home-button:hover {
+  border: 1px solid #1d4979;
+  background-color: #1d4979;
+  color: white;
+  transform: scale(1.05);
+}
+.ssimg {
+  align-items: center !important;
+  justify-content: baseline !important;
+  width: 150px;
+  height: 150px;
+  padding: 1rem;
+}
+.redd {
+  background-color: red;
+}
+.carouselmaindiv {
+  margin-top: 4rem;
+  padding-bottom: 6rem !important;
+}
+
+.popular {
+  text-align: center !important;
+  margin-top: 2rem;
+  color: #1d4979;
+  font-size: 25px !important ;
+  font-weight: 600;
+}
+.homeep {
+  background-color: rgba(240, 248, 255, 0.479);
+  border-radius: 18px;
+  color: rgb(14, 11, 9);
+}
+
+.caritem {
+  background-color: white !important;
+  background: white !important;
+}
+.stepdiv {
+  height: 22rem;
+  overflow: hidden;
+  padding: 2rem;
+}
+.rowstp {
+  background-color: rgba(215, 226, 226, 0.335);
+}
+.stepicon {
+  font-size: 3rem !important;
+  border-radius: 100px;
+  color: #1d4979;
+  background-color: rgba(150, 191, 219, 0.836);
+  align-items: center;
+  padding: 1rem;
+}
+.stpdiv {
+  display: flex;
+  justify-content: center;
+}
+.prgstep {
+  font-size: 25px;
+  text-align: center !important;
+  color: #1d4979;
+  font-family: cursive;
+}
+.prgstepss {
+  text-align: center !important;
+  font-size: 20px;
+  color: #1d4979;
+  margin-top: 2rem !important;
+}
+.lowwerprg {
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 15px;
+}
+.sercontainer {
+  padding-bottom: 6rem;
+}
+
+.alice-carousel__prev-btn-item,
+.alice-carousel__next-btn-item {
+  color: white !important;
+}
+.alice-carousel__dots-item:not(.__custom):not(:last-child) {
+  background-color: white !important;
+}
+.alice-carousel__dots-item:not(.__custom) {
+  background-color: white !important;
+}
+.Testimonials {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Testimonialss {
+  display: flex;
+  justify-content: center;
+  margin-top: -0.5rem;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.homeplogo {
+  font-size: 5rem;
+  color: white;
+  margin-top: 4px;
+}
+.homefeed {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: rgb(100, 100, 100);
+  margin-top: 1.5rem;
+  font-size: 16px;
+}
+.homenamefeed {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #1d4979;
+  font-size: 19px;
+}
+.homedev {
+  /* margin-right: 4rem; */
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+.homepicon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+  font-size: 60px;
+  color: rgb(189, 186, 186);
+  margin-top: -2rem;
+}
+.line {
+  display: flex;
+  justify-content: center;
+  margin-top: -1rem;
+}
+.borderdev{
+  border: 3px solid rgb(189, 186, 186);
+}
+.homepgvehicle{
+  text-align: center !important;
+  text-decoration: none !important;
+  color: #1D4979;
+  margin-top: 2rem;
+  margin-bottom: -4rem;
+}
+.homediv{
+  padding-bottom: 2rem;
+}
+.homenvlink{
+  text-decoration: none !important;
+}

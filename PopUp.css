@@ -1,0 +1,36 @@
+.profile {
+  margin-top: 30px;
+}
+.pfile {
+  color: #1d4979 !important;
+}
+.bgg {
+  margin-top: -20px;
+  height: 40.6rem;
+  background-color: #faf9f6;
+}
+.im {
+  bottom: 5rem !important;
+  width: 17.5rem !important;
+  height: 29rem !important;
+}
+
+
+.card-popup{
+  width: 18rem;
+}
+.dev {
+  margin-top: 3.5rem;
+}
+
+.cardds{
+  position: sticky;
+  top: 9rem;
+
+}
+ 
+.bookdataedit{
+  text-decoration: none !important;
+  color: black !important;
+
+}

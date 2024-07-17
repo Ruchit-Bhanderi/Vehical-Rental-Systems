@@ -1,0 +1,49 @@
+.imm {
+  height: 29rem !important ;
+  background-color: white;
+}
+.bggg {
+  margin-top: -20px;
+  height: 74rem !important;
+  background-color: #faf9f6;
+}
+.pcard {
+  height: 29rem;
+}
+.bookcard {
+  /* box-shadow: 5px 5px 10px 2px rgb(182, 180, 180); */
+  margin-top: 1rem !important;
+  /* margin-left: 5rem !important; */
+}
+.bikename {
+  align-items: center !important;
+  display: flex !important;
+  font-weight: 600;
+  color: #1d4979;
+  font-size: 25px !important;
+}
+.bdelete {
+  background-color: white !important;
+  color: #1d4979 !important;
+  font-size: 20px !important;
+  margin-left: 2rem !important;
+  cursor: pointer;
+}
+.fdelete {
+  background-color: white !important;
+  color: #1d4979 !important;
+  font-size: 23px !important;
+  margin-left: -1rem !important;
+  margin-top: -13px;
+  cursor: pointer;
+}
+.popupp {
+  /* position: fixed ; */
+  position: sticky;
+  top: 8rem !important;
+  left: 4rem !important;
+}
+
+.cardds{
+  padding-left: 3rem !important;
+}

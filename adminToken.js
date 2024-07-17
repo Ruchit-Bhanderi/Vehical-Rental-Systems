@@ -1,0 +1,1 @@
+export const admingetToken = localStorage.getItem("admintoken");

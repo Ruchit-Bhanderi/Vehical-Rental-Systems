@@ -1,0 +1,116 @@
+.userpayment {
+  background-color: #429cd863 !important;
+  margin-top: 5rem;
+  padding-bottom: 3rem;
+  margin-bottom: 4rem;
+}
+.frmpayment {
+  margin-top: 1rem !important;
+  margin-left: 1rem;
+  padding-bottom: 1rem;
+}
+.onlinepmt{
+  padding-left: 1rem;
+}
+.paymentforminput {
+  margin-top: 1rem;
+}
+.paymentdrpdown {
+  padding-top: 1rem !important;
+  padding-left: 1rem !important;
+}
+.btnpaymments {
+  background-color: #113e6e !important;
+  color: white;
+  margin-top: 1.5rem !important;
+}
+.btnpaymments:hover {
+  color: white !important;
+}
+.useredapayment {
+  margin-top: 3rem !important;
+  border: 2px solid #113e6e;
+  /* padding: 1rem; */
+  box-shadow: 0px 0px 3px 1px grey;
+  padding-bottom: 3rem;
+  width: 20rem !important;
+}
+.paymentiiges {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 1rem;
+}
+.paymentdetails {
+  text-align: center;
+}
+.pmtdetaills {
+  font-size: 17px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+.paymentsuccess{
+  height: 25rem;
+}
+.paymenticon{
+  /* background-color: red;
+  border-radius: 100px;
+  height: 7rem;
+  width: 7rem; */
+  display: flex;
+  justify-content: center !important;
+  padding-top: 4rem;
+}
+.checkicon{
+  border-radius: 100px;
+  padding: 2rem;
+  font-size: 3rem;
+  border: 2px solid green;
+  color: green;
+ 
+}
+.paythanks{
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  color: green;
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top:1rem ;
+}
+.paysuccess{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: green;
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+}
+.loader {
+  border: 10px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 10px solid gray;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  margin-top: -20rem;
+  margin-left: 39rem;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.spinner-border {
+  width: 1.3rem;
+  height: 1.3rem;
+  border-width: .1em;
+}

@@ -1,0 +1,173 @@
+.parra {
+  left: 5rem;
+  margin-top: -28rem !important;
+  position: relative;
+  font-family: cursive;
+  opacity: 0.6;
+  color: rgba(255, 255, 255, 0.856);
+  font-size: 2rem !important;
+  font-weight: 700;
+}
+.company {
+  display: flex !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+.hoverbike {
+  border-radius: 20px;
+  margin-top: 3rem !important;
+  margin-left: 2rem;
+  /* background-color: rgba(131, 192, 228, 0.288); */
+  background-color:  rgba(16, 104, 155, 0.336)
+}
+.crrdbody {
+  margin-top: 1rem;
+  height: 12rem;
+  padding: 1px;
+}
+.bikebookbbtn {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center !important;
+}
+.iiimmmmg {
+  height: 250px !important;
+  width: 260px !important;
+  
+}
+.iiimges {
+  padding: 1rem;
+  height: 100% !important;
+  width: 100% !important;
+}
+.biikecontainer {
+  margin-top: 10rem !important;
+  background-color: #dbe3e9e3 !important;
+}
+.rentlbl {
+  color: white;
+}
+.comlbl {
+  margin-left: 5rem !important;
+  color: white;
+}
+.cmpselcet {
+  padding: 6px !important;
+  background-color: #F5F5F5 !important;
+  color: rgb(14, 99, 133);
+   margin-right: 1rem;
+}
+.drpselcet {
+  position: relative;
+  /* margin-right: 3rem; */
+  padding: 6px !important;
+  background-color: #F5F5F5 !important;
+  color: rgb(14, 99, 133);
+  width: 11rem !important;
+}
+.image-bikecont {
+  height: 32rem;
+}
+.image-bike {
+  opacity: 0.9 !important;
+  height: 100%;
+  width: 100%;
+}
+.h1title {
+  position: relative;
+  text-align: center;
+  margin-top: 3rem !important;
+}
+.bcontainer {
+  margin-top: 5rem !important;
+  border-radius: 12px;
+  height: 15rem !important;
+}
+.headbikes {
+  display: flex;
+  justify-content: center;
+  padding: 7px;
+}
+.biikeamount {
+  margin-top: -3rem;
+}
+.regbutton {
+  width: 6em;
+  background: #245080e8;
+  color: white;
+  margin-top: -40px;
+  height: 35px;
+}
+.snav {
+  margin-top: 3rem !important;
+  width: 11rem !important;
+  color: white !important;
+}
+.bikerows {
+  padding-bottom: 50px !important;
+  margin-top: 5rem !important;
+}
+.headerss {
+  background-color: #F1F1F1;
+  padding: 30px;
+  text-align: center;
+}
+.content {
+  padding-top: 60px;
+}
+.bikes-navbars {
+  background-color: rgba(16, 104, 155, 0.938) !important;
+  padding-left: 12rem !important;
+  padding-right: 18rem !important;
+  position: fixed;
+  top: 0;
+  height: 5rem;
+  box-shadow: 5px 5px 10px 2px grey;
+  width: 100%;
+  z-index: 999 !important;
+}
+.drpp-down {
+  float: left;
+}
+.drpp-down .drop-btn {
+  font-size: 16px;
+  border: 2px solid bisque;
+  border-radius: 4px;
+  outline: none;
+  color: white;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+.iconbars{
+  font-size: 25px !important;
+}
+.drpp-down-content {
+  display: none;
+  position: absolute;
+  background-color: #F9F9F9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.drpp-down-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.drpp-down-content a:hover {
+  background-color: #ddd;
+}
+.drpp-down:hover .drpp-down-content {
+  display: block;
+}
+.modify{
+height: 2.3rem;
+background-color: rgb(14, 99, 133)!important;
+border: 1px solid white;
+border-radius: 2px;
+color: white;
+}
